@@ -2,7 +2,7 @@
   "name": "pkg-name",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@8.5.0",
+  "packageManager": "pnpm@8.6.6",
   "description": "",
   "author": "Riri <Daydreamerriri@outlook.com>",
   "license": "MIT",
@@ -50,10 +50,9 @@
     "bumpp": "^9.1.0",
     "eslint": "^8.40.0",
     "esno": "^0.16.3",
-    "pnpm": "^8.1.1",
-    "rimraf": "^5.0.0",
+    "rimraf": "5.0.1",
     "simple-git-hooks": "^2.8.1",
-    "typescript": "^5.0.3",
+    "typescript": "5.1.6",
     "unbuild": "^1.2.1"
   },
   "simple-git-hooks": {
