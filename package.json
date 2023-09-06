@@ -17,8 +17,8 @@
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "require": "./dist/index.cjs",
-      "import": "./dist/index.mjs"
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
     }
   },
   "main": "./dist/index.mjs",
@@ -45,7 +45,7 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@ririd/eslint-config": "^0.6.0",
+    "@ririd/eslint-config": "^0.7.0",
     "@types/node": "^18.15.11",
     "bumpp": "^9.2.0",
     "eslint": "^8.48.0",
