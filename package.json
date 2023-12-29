@@ -45,15 +45,15 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@ririd/eslint-config": "^0.7.0",
+    "@ririd/eslint-config": "^1.0.3",
     "@types/node": "^18.15.11",
-    "bumpp": "^9.2.0",
-    "eslint": "^8.48.0",
-    "esno": "^0.17.0",
-    "lint-staged": "14.0.1",
+    "bumpp": "^9.2.1",
+    "eslint": "^8.56.0",
+    "esno": "^4.0.0",
+    "lint-staged": "15.2.0",
     "rimraf": "5.0.1",
     "simple-git-hooks": "^2.9.0",
-    "typescript": "5.2.2",
+    "typescript": "5.3.3",
     "unbuild": "^2.0.0"
   },
   "simple-git-hooks": {
