@@ -2,7 +2,7 @@
   "name": "pkg-name",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@8.7.4",
+  "packageManager": "pnpm@8.15.5",
   "description": "",
   "author": "Riri <Daydreamerriri@outlook.com>",
   "license": "MIT",
@@ -45,15 +45,15 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@ririd/eslint-config": "^1.0.3",
+    "@ririd/eslint-config": "^1.1.0",
     "@types/node": "^18.15.11",
-    "bumpp": "^9.2.1",
+    "bumpp": "^9.4.0",
     "eslint": "^8.56.0",
-    "esno": "^4.0.0",
-    "lint-staged": "15.2.0",
-    "rimraf": "5.0.1",
-    "simple-git-hooks": "^2.9.0",
-    "typescript": "5.3.3",
+    "esno": "^4.7.0",
+    "lint-staged": "15.2.2",
+    "rimraf": "5.0.5",
+    "simple-git-hooks": "^2.11.1",
+    "typescript": "^5.4.3",
     "unbuild": "^2.0.0"
   },
   "simple-git-hooks": {
